@@ -1,0 +1,109 @@
+/* Global Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+    color: #333333;
+}
+
+/* Header Styles (if applicable) */
+/* Adjust header styles according to your design */
+
+/* Main Content Styles */
+main {
+    padding-top: 100px; /* Adjust as needed */
+}
+
+.px-4 {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.py-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
+
+.my-5 {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.display-5 {
+    font-size: 2.5rem;
+}
+
+.fw-bold {
+    font-weight: 700;
+}
+
+.text-body-emphasis {
+    color: #2c3e50;
+}
+
+.h1-begin {
+    color: #2c3e50;
+}
+
+.h1-end {
+    color: #3498db;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.content {
+    padding: 50px 0;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 30px;
+}
+
+.education {
+    margin-bottom: 40px;
+}
+
+.education-item {
+    margin-bottom: 20px;
+}
+
+.education-item h3 {
+    font-size: 1.5rem;
+    color: #3498db;
+    margin-bottom: 10px;
+}
+
+.qualifications p {
+    margin-bottom: 10px;
+}
+
+.qualifications ul {
+    padding-left: 20px;
+}
+
+.qualifications li {
+    margin-bottom: 5px;
+}
+
+.portrait-frame {
+    width: 250px;
+    height: 250px;
+    border: 3px solid #2c3e50; /* Adjust border color */
+    border-radius: 50%; /* Creates a circular frame */
+    overflow: hidden; /* Ensures the image stays within the circular frame */
+    margin: 0 auto 30px; /* Adjust margin as needed */
+}
+
+.portrait {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image fills the circular frame */
+}
