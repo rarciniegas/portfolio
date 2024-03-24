@@ -8,10 +8,10 @@
                 <p>&copy; <?php echo date("Y"); ?> Roberto Arciniegas. All rights reserved.</p>
                 <!-- Social Media Links -->
                 <div class="social-links">
-                    <a href="https://github.com/your_username" target="_blank" rel="noopener noreferrer"><i class="bi bi-github"></i></a>
-                    <a href="https://linkedin.com/in/your_profile" target="_blank" rel="noopener noreferrer"><i class="bi bi-linkedin"></i></a>
-                    <a href="https://facebook.com/your_profile" target="_blank" rel="noopener noreferrer"><i class="bi bi-facebook"></i></a>
-                    <a href="https://instagram.com/your_profile" target="_blank" rel="noopener noreferrer"><i class="bi bi-instagram"></i></a>
+                    <a href="https://github.com/rarciniegas" target="_blank" rel="noopener noreferrer"><i class="bi bi-github"></i></a>
+                    <a href="https://www.linkedin.com/in/rarci/" target="_blank" rel="noopener noreferrer"><i class="bi bi-linkedin"></i></a>
+                    <a href="https://www.facebook.com/roberto.arciniegas.jaramillo" target="_blank" rel="noopener noreferrer"><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.instagram.com/arciniegasr/" target="_blank" rel="noopener noreferrer"><i class="bi bi-instagram"></i></a>
                 </div>
             </div>
         </div>

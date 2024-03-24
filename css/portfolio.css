@@ -96,10 +96,11 @@ main {
 .portrait-frame {
     width: 250px;
     height: 250px;
-    border: 3px solid #2c3e50; /* Adjust border color */
+    border: 5px solid #2c3e50; /* Adjust border color */
     border-radius: 50%; /* Creates a circular frame */
     overflow: hidden; /* Ensures the image stays within the circular frame */
     margin: 0 auto 30px; /* Adjust margin as needed */
+    background-color: #3498db;; /* Add background color */
 }
 
 .portrait {
